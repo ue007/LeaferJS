@@ -16,3 +16,12 @@
 [submodule "src/game"]
 	path = src/game
 	url = https://github.com/leaferjs/leafer-game.git
+[submodule "plugins/leafer-x-link"]
+	path = plugins/leafer-x-link
+	url = git@github.com:ue007/leafer-x-link.git
+[submodule "plugins/leafer-x"]
+	path = plugins/leafer-x
+	url = git@github.com:ue007/leafer-x.git
+[submodule "plugins/leafer-x-tooltip"]
+	path = plugins/leafer-x-tooltip
+	url = git@github.com:ue007/leafer-x-tooltip.git
